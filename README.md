@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Form Validation
+
+This project is a form validation application built using **React** and styled with **Bootstrap**.
+
+## Technologies Used
+
+- **React** - For building the user interface and handling form validation.
+- **Bootstrap** - For styling and layout.
+
 ## Available Scripts
 
 In the project directory, you can run:
